@@ -544,7 +544,7 @@ img .logo{
 /* ( a ) Story of Glory */
 
 .profile-page .image-container {
-    background: url('/css/img/home/case_study2.png');
+    background: url('img/home/case_study2.png');
     background-size: cover;
     background-position: bottom;
 }
@@ -665,7 +665,7 @@ img .logo{
 /* ( a ) Portfolio Section */
 
 .projects-page .image-container {
-    background: url('/css/img/home/projects2.png');
+    background: url('img/home/projects2.png');
     background-size: cover;
     background-position: bottom;
 }
@@ -846,7 +846,7 @@ img .logo{
 =======================================*/
 
 .service-page .image-container {
-    background: url('/css/img/home/team2.jpg');
+    background: url('img/home/team2.jpg');
     background-size: cover;
     background-position: bottom;
 }
@@ -1138,7 +1138,7 @@ img .logo{
 }
 
 .contact-page .image-container {
-    background: url('/css/img/home/contact2.jpg');
+    background: url('img/home/contact2.jpg');
     background-size: cover;
     background-position: bottom;
 }
@@ -1304,7 +1304,7 @@ input#cfsubmit:hover {
     }
 
     .close-btn{
-        background: url(../img/close_sm.png);
+        background: url(./img/close_sm.png);
         top: 5px;
     }
 
